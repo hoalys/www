@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.aplicacao01.tampleateox"
+        version   = "1.0.0">
+
+    <name>Aplicacao01 - Template OX</name>
+
+    <description>
+        Aplicacao01 - Template OX 
+    </description>
+
+    <author href="http://www.oxautomacao.com.br" email="suporte@oxautomacao.com.br">
+         Hoalys Campos
+    </author>
+
+</widget>
